@@ -1,0 +1,29 @@
+_repo: The-Aquarian-Gospel-of-Jesus-the-ChristAquarian-Age-of-the-World-and-of-The-Church-Universal_44073
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44073-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Levi
+    alias: Dowling, Levi H.
+    birthdate: 1844
+    deathdate: 1911
+    gutenberg_agent_id: '42553'
+    url: http://www.gutenberg.org/2009/agents/42553
+description: ''
+gutenberg_issued: '2013-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44073'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Akashic records'
+- !lcsh 'Jesus Christ -- Biography -- Apocryphal and legendary literature'
+title: "The Aquarian Gospel of Jesus the Christ\r\nThe Philosophic and Practical Basis\
+  \ of the Religion of the Aquarian Age of the World and of The Church Universal"
+url: http://www.gutenberg.org/ebooks/44073
